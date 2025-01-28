@@ -14,5 +14,8 @@
 		}
 	],
 	"esmodules": [ "module/wh40krt.mjs" ],
-	"styles": [ "styles/wh40krt.css" ]
+	"styles": [ "styles/wh40krt.css" ],
+	"url": "https://https://github.com/tan-frederic/FoundryVTT_Wh40kRogueTrader",
+	"manifest": "https://raw.githubusercontent.com/tan-frederic/FoundryVTT_Wh40kRogueTrader/refs/heads/main/system.json",
+	"download": "https://github.com/tan-frederic/FoundryVTT_Wh40kRogueTrader/archive/refs/heads/main.zip"
 }
