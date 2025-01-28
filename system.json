@@ -3,7 +3,7 @@
 	"name": "Wh40kRT",
 	"title": "Warhammer 40000 Rogue Trader",
 	"description": "Game System for warhammer 40000 Rogue Trader",
-	"version": "1.0.0",
+	"version": "0.0.1",
 	"compatibility": {
 		"minimum": 11,
 		"verified": 12.331
